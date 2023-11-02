@@ -21,7 +21,7 @@ public class StartUp
         //output = ExportAlbumsInfo(context, 9);
 
         //Test 03.Export Songs Above Duration
-        output = ExportSongsAboveDuration(context, 4);
+        //output = ExportSongsAboveDuration(context, 4);
 
         Console.WriteLine(output);
     }
