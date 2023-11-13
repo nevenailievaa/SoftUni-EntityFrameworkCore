@@ -16,9 +16,7 @@ public class StartUp
     {
         //Database
         ProductShopContext context = new ProductShopContext();
-        context.Database.EnsureDeleted();
-        context.Database.EnsureCreated();
-
+        
         //Variables
         string inputJson = string.Empty;
         string output = string.Empty;
