@@ -49,7 +49,7 @@ public class StartUp
         //output = GetCategoriesByProductsCount(context);
 
         //08.Export Users and Products
-        output = GetUsersWithProducts(context);
+        //output = GetUsersWithProducts(context);
 
         Console.WriteLine(output);
     }
