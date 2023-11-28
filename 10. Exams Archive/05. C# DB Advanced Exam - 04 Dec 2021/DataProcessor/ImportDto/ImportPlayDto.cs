@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+ ﻿using System.ComponentModel.DataAnnotations;
 using System.Xml.Serialization;
 using Theatre.Common;
 
@@ -15,7 +15,6 @@ public class ImportPlayDto
 
     [XmlElement("Duration")]
     [Required]
-    //[Range(typeof(TimeSpan), CommonConstraints.PlayDurationMinLengthInHours, CommonConstraints.PlayDurationMaxLengthInHours)]
     public string Duration { get; set; }
 
     [XmlElement("Raiting")]
@@ -25,7 +24,6 @@ public class ImportPlayDto
 
     [XmlElement("Genre")]
     [Required]
-    //[Range(CommonConstraints.PlayGenreMinRange, CommonConstraints.PlayGenreMaxRange)]
     public string Genre { get; set; }
 
     [XmlElement("Description")]
