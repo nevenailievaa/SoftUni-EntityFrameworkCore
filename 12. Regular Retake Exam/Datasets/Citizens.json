@@ -1,0 +1,541 @@
+[
+  {
+    "FirstName": "Ivan",
+    "LastName": "Georgiev",
+    "BirthDate": "12-05-1980",
+    "MaritalStatus": "Married",
+    "Properties": [ 17, 29 ]
+  },
+  {
+    "FirstName": "Stefan",
+    "LastName": "Dimitrov",
+    "BirthDate": "22-08-1972",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 33, 47 ]
+  },
+  {
+    "FirstName": "Elena",
+    "LastName": "Petrova",
+    "BirthDate": "03-03-1985",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 12, 54, 60 ]
+  },
+  {
+    "FirstName": "Nikolai",
+    "LastName": "Vasilev",
+    "BirthDate": "14-09-1965",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 8, 23 ]
+  },
+  {
+    "FirstName": "Dimitrina",
+    "LastName": "Ilieva",
+    "BirthDate": "19-11-1990",
+    "MaritalStatus": "Married",
+    "Properties": [ 1, 75 ]
+  },
+  {
+    "FirstName": "Petar",
+    "LastName": "Nikolov",
+    "BirthDate": "27-01-1978",
+    "MaritalStatus": "Single",
+    "Properties": [ 98 ]
+  },
+  {
+    "FirstName": "Maria",
+    "LastName": "Todorova",
+    "BirthDate": "16-06-1982",
+    "MaritalStatus": "Married",
+    "Properties": [ 117 ]
+  },
+  {
+    "FirstName": "Georgi",
+    "LastName": "Popov",
+    "BirthDate": "05-02-1995",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 31 ]
+  },
+  {
+    "FirstName": "Tsvetanka",
+    "LastName": "Kostova",
+    "BirthDate": "30-10-1988",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 9, 37 ]
+  },
+  {
+    "FirstName": "Vasil",
+    "LastName": "Ivanov",
+    "BirthDate": "21-07-1973",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 89 ]
+  },
+  {
+    "FirstName": "Lyudmil",
+    "LastName": "Stoyanov",
+    "BirthDate": "15-04-1985",
+    "MaritalStatus": "Married",
+    "Properties": [ 32, 56, 103 ]
+  },
+  {
+    "FirstName": "Radoslava",
+    "LastName": "Mihaylova",
+    "BirthDate": "08-09-1979",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 21, 48, 67 ]
+  },
+  {
+    "FirstName": "Boyan",
+    "LastName": "Kolev",
+    "BirthDate": "26-07-1992",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 7, 85 ]
+  },
+  {
+    "FirstName": "Daniela",
+    "LastName": "Draganova",
+    "BirthDate": "03-12-1968",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 13, 31, 70 ]
+  },
+  {
+    "FirstName": "Kaloyan",
+    "LastName": "Pavlov",
+    "BirthDate": "10-05-1980",
+    "MaritalStatus": "Married",
+    "Properties": [ 46, 80, 91 ]
+  },
+  {
+    "FirstName": "Gergana",
+    "LastName": "Dimitrova",
+    "BirthDate": "22-02-1974",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 18, 39, 57 ]
+  },
+  {
+    "FirstName": "Stanimir",
+    "LastName": "Angelov",
+    "BirthDate": "01-06-1988",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 19, 52, 95 ]
+  },
+  {
+    "FirstName": "Iliana",
+    "LastName": "Vasileva",
+    "BirthDate": "14-11-1971",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 4, 23, 84 ]
+  },
+  {
+    "FirstName": "Svetoslav",
+    "LastName": "Petrov",
+    "BirthDate": "09-03-1990",
+    "MaritalStatus": "Married",
+    "Properties": [ 3, 64, 112 ]
+  },
+  {
+    "FirstName": "Desislava",
+    "LastName": "Ivanova",
+    "BirthDate": "07-08-1966",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 30, 43, 77 ]
+  },
+  {
+    "FirstName": "Dimitar",
+    "LastName": "Iliev",
+    "BirthDate": "12-03-1984",
+    "MaritalStatus": "Married",
+    "Properties": [ 5, 17, 29, 102 ]
+  },
+  {
+    "FirstName": "Stefka",
+    "LastName": "Petrova",
+    "BirthDate": "25-06-1972",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 35, 94 ]
+  },
+  {
+    "FirstName": "Ivan",
+    "LastName": "Georgiev",
+    "BirthDate": "19-11-1987",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 44, 68, 113 ]
+  },
+  {
+    "FirstName": "Yana",
+    "LastName": "Todorova",
+    "BirthDate": "07-01-1965",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 9, 57 ]
+  },
+  {
+    "FirstName": "Nikolai",
+    "LastName": "Dobrev",
+    "BirthDate": "22-04-1993",
+    "MaritalStatus": "Married",
+    "Properties": [ 16, 82, 96 ]
+  },
+  {
+    "FirstName": "Magdalena",
+    "LastName": "Ivanova",
+    "BirthDate": "13-08-1978",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 11, 40, 75 ]
+  },
+  {
+    "FirstName": "Hristo",
+    "LastName": "Dimitrov",
+    "BirthDate": "02-10-1989",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 21, 53, 107 ]
+  },
+  {
+    "FirstName": "Anelia",
+    "LastName": "Georgieva",
+    "BirthDate": "05-08-1983",
+    "MaritalStatus": "Married",
+    "Properties": [ 26, 72 ]
+  },
+  {
+    "FirstName": "Vladimir",
+    "LastName": "Petrov",
+    "BirthDate": "14-12-1979",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 2, 34, 87 ]
+  },
+  {
+    "FirstName": "Silvia",
+    "LastName": "Kirova",
+    "BirthDate": "29-05-1975",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 50, 92 ]
+  },
+  {
+    "FirstName": "Borislav",
+    "LastName": "Mihailov",
+    "BirthDate": "17-07-1986",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 12, 39, 105 ]
+  },
+  {
+    "FirstName": "Kristina",
+    "LastName": "Nikolova",
+    "BirthDate": "03-11-1992",
+    "MaritalStatus": "Married",
+    "Properties": [ 8, 45, 111 ]
+  },
+  {
+    "FirstName": "Plamen",
+    "LastName": "Dimitrov",
+    "BirthDate": "21-01-1984",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 81, 69 ]
+  },
+  {
+    "FirstName": "Milena",
+    "LastName": "Vasileva",
+    "BirthDate": "10-04-1970",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 7, 33, 100 ]
+  },
+  {
+    "FirstName": "Todor",
+    "LastName": "Ivanov",
+    "BirthDate": "24-09-1968",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 15, 58, 90 ]
+  },
+  {
+    "FirstName": "Zornitsa",
+    "LastName": "Petrova",
+    "BirthDate": "16-06-1991",
+    "MaritalStatus": "Married",
+    "Properties": [ 22, 76, 110 ]
+  },
+  {
+    "FirstName": "Ivaylo",
+    "LastName": "Stoyanov",
+    "BirthDate": "08-03-1977",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 14, 38, 62 ]
+  },
+  {
+    "FirstName": "Miroslav",
+    "LastName": "Todorov",
+    "BirthDate": "30-04-1981",
+    "MaritalStatus": "Married",
+    "Properties": [ 3, 56, 104 ]
+  },
+  {
+    "FirstName": "Valentina",
+    "LastName": "Dimitrova",
+    "BirthDate": "12-07-1973",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 18, 70, 114 ]
+  },
+  {
+    "FirstName": "Nadezhda",
+    "LastName": "Petrova",
+    "BirthDate": "22-02-1969",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 11, 49, 106 ]
+  },
+  {
+    "FirstName": "Kamen",
+    "LastName": "Iliev",
+    "BirthDate": "09-05-1990",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 20, 73 ]
+  },
+  {
+    "FirstName": "Ivelina",
+    "LastName": "Vasileva",
+    "BirthDate": "17-03-1985",
+    "MaritalStatus": "Married",
+    "Properties": [ 6, 28, 83 ]
+  },
+  {
+    "FirstName": "Radostin",
+    "LastName": "Kolev",
+    "BirthDate": "06-08-1978",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 42, 88 ]
+  },
+  {
+    "FirstName": "Svetlana",
+    "LastName": "Mihaylova",
+    "BirthDate": "03-10-1967",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 25, 79, 97 ]
+  },
+  {
+    "FirstName": "Lyuben",
+    "LastName": "Georgiev",
+    "BirthDate": "15-12-1992",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 36, 65, 115 ]
+  },
+  {
+    "FirstName": "Rositsa",
+    "LastName": "Nikolova",
+    "BirthDate": "21-09-1983",
+    "MaritalStatus": "Married",
+    "Properties": [ 10, 61, 102 ]
+  },
+  {
+    "FirstName": "Deyan",
+    "LastName": "Ivanov",
+    "BirthDate": "11-11-1971",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 27, 78, 108 ]
+  },
+  {
+    "FirstName": "Milena",
+    "LastName": "Petrova",
+    "BirthDate": "08-03-1986",
+    "MaritalStatus": "Married",
+    "Properties": [ 101 ]
+  },
+  {
+    "FirstName": "Nikolay",
+    "LastName": "Stoyanov",
+    "BirthDate": "16-06-1991",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 24 ]
+  },
+  {
+    "FirstName": "Lidiya",
+    "LastName": "Ivanova",
+    "BirthDate": "29-11-1975",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 52, 117 ]
+  },
+  {
+    "FirstName": "Iliyan",
+    "LastName": "Kostov",
+    "BirthDate": "14-02-1989",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 33 ]
+  },
+  {
+    "FirstName": "Zornitsa",
+    "LastName": "Dimitrova",
+    "BirthDate": "03-08-1978",
+    "MaritalStatus": "Married",
+    "Properties": [ 48 ]
+  },
+  {
+    "FirstName": "Borislav",
+    "LastName": "Georgiev",
+    "BirthDate": "21-05-1983",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 66 ]
+  },
+  {
+    "FirstName": "Simona",
+    "LastName": "Vasileva",
+    "BirthDate": "07-07-1994",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 86, 109 ]
+  },
+  {
+    "FirstName": "Plamen",
+    "LastName": "Nikolov",
+    "BirthDate": "13-10-1970",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 74 ]
+  },
+  {
+    "FirstName": "Katerina",
+    "LastName": "Mihaylova",
+    "BirthDate": "25-04-1988",
+    "MaritalStatus": "Married",
+    "Properties": [ 37 ]
+  },
+  {
+    "FirstName": "Stoyan",
+    "LastName": "Petrov",
+    "BirthDate": "19-01-1969",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 59 ]
+  },
+  {
+    "FirstName": "Diana",
+    "LastName": "Todorova",
+    "BirthDate": "30-03-1977",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 16 ]
+  },
+  {
+    "FirstName": "Vladimir",
+    "LastName": "Iliev",
+    "BirthDate": "12-07-1985",
+    "MaritalStatus": "Married",
+    "Properties": [ 43, 93 ]
+  },
+  {
+    "FirstName": "Mirela",
+    "LastName": "Vasileva",
+    "BirthDate": "05-11-1992",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 27 ]
+  },
+  {
+    "FirstName": "Kiril",
+    "LastName": "Popov",
+    "BirthDate": "17-04-1980",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 34 ]
+  },
+  {
+    "FirstName": "Rositsa",
+    "LastName": "Georgieva",
+    "BirthDate": "23-09-1968",
+    "MaritalStatus": "Married",
+    "Properties": [ 71 ]
+  },
+  {
+    "FirstName": "Anton",
+    "LastName": "Dimitrov",
+    "BirthDate": "18-01-1974",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 51, 98 ]
+  },
+  {
+    "FirstName": "Teodora",
+    "LastName": "Nikolova",
+    "BirthDate": "26-06-1991",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 45 ]
+  },
+  {
+    "FirstName": "Lyubomir",
+    "LastName": "Stoyanov",
+    "BirthDate": "14-03-1979",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 28 ]
+  },
+  {
+    "FirstName": "Desislav",
+    "LastName": "Ivanov",
+    "BirthDate": "22-02-1983",
+    "MaritalStatus": "Married",
+    "Properties": [ 76 ]
+  },
+  {
+    "FirstName": "Stefani",
+    "LastName": "Kostova",
+    "BirthDate": "08-12-1987",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 65 ]
+  },
+  {
+    "FirstName": "Borislav",
+    "LastName": "Petrov",
+    "BirthDate": "09-08-1976",
+    "MaritalStatus": "Married",
+    "Properties": [ 41 ]
+  },
+  {
+    "FirstName": "Anelia",
+    "LastName": "Dimitrova",
+    "BirthDate": "16-02-1993",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 42, 105 ]
+  },
+  {
+    "FirstName": "Plamen",
+    "LastName": "Nikolov",
+    "BirthDate": "24-07-1984",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 55 ]
+  },
+  {
+    "FirstName": "Snezhana",
+    "LastName": "Vasileva",
+    "BirthDate": "13-05-1988",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 63 ]
+  },
+  {
+    "FirstName": "Milen",
+    "LastName": "Georgiev",
+    "BirthDate": "21-11-1969",
+    "MaritalStatus": "Married",
+    "Properties": [ 78 ]
+  },
+  {
+    "FirstName": "Yavor",
+    "LastName": "Ivanov",
+    "BirthDate": "03-10-1972",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 84, 116 ]
+  },
+  {
+    "FirstName": "Valentina",
+    "LastName": "Todorova",
+    "BirthDate": "29-01-1990",
+    "MaritalStatus": "Unmarried",
+    "Properties": [ 91 ]
+  },
+  {
+    "FirstName": "Bozhidar",
+    "LastName": "Kolev",
+    "BirthDate": "07-04-1975",
+    "MaritalStatus": "Widowed",
+    "Properties": [ 99 ]
+  },
+  {
+    "FirstName": "Silvia",
+    "LastName": "Petrova",
+    "BirthDate": "18-03-1986",
+    "MaritalStatus": "Married",
+    "Properties": [ 112 ]
+  },
+  {
+    "FirstName": "Rumen",
+    "LastName": "Stoyanov",
+    "BirthDate": "25-08-1981",
+    "MaritalStatus": "Divorced",
+    "Properties": [ 117 ]
+  }
+]

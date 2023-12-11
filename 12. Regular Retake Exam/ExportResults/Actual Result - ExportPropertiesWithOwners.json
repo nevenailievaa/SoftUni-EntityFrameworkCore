@@ -1,0 +1,738 @@
+[
+  {
+    "PropertyIdentifier": "SF-10000.004.002.002",
+    "Area": 150,
+    "Address": "Penthouse 2, 55 High Tower Road, Sofia",
+    "DateOfAcquisition": "10.02.2023",
+    "Owners": [
+      {
+        "LastName": "Petrov",
+        "MaritalStatus": "Married"
+      },
+      {
+        "LastName": "Todorov",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "SF-10000.006.003.002",
+    "Area": 100,
+    "Address": "Apartment 21, 33 Family Street, Sofia",
+    "DateOfAcquisition": "15.07.2022",
+    "Owners": [
+      {
+        "LastName": "Iliev",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "SF-10000.001.001.001",
+    "Area": 71,
+    "Address": "Apartment 5, 23 Silverado Street, Sofia",
+    "DateOfAcquisition": "15.03.2022",
+    "Owners": [
+      {
+        "LastName": "Ilieva",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "SF-10000.003.002.001",
+    "Area": 120,
+    "Address": "Apartment 8, 47 Green Street, Sofia",
+    "DateOfAcquisition": "01.02.2022",
+    "Owners": [
+      {
+        "LastName": "Petrov",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "SF-10000.005.003.001",
+    "Area": 80,
+    "Address": "Studio 12, 12 University Blvd, Sofia",
+    "DateOfAcquisition": "05.09.2021",
+    "Owners": [
+      {
+        "LastName": "Vasileva",
+        "MaritalStatus": "Widowed"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "VA-90000.003.003.003",
+    "Area": 200,
+    "Address": "99, High Street",
+    "DateOfAcquisition": "03.02.2021",
+    "Owners": [
+      {
+        "LastName": "Mihailov",
+        "MaritalStatus": "Widowed"
+      },
+      {
+        "LastName": "Petrova",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "VA-90000.003.002.002",
+    "Area": 75,
+    "Address": "15, Old Town Street",
+    "DateOfAcquisition": "11.09.2019",
+    "Owners": [
+      {
+        "LastName": "Ivanova",
+        "MaritalStatus": "Divorced"
+      },
+      {
+        "LastName": "Petrova",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "VT-50000.001.005.005",
+    "Area": 250,
+    "Address": "90, Hillside Drive",
+    "DateOfAcquisition": "09.09.2015",
+    "Owners": [
+      {
+        "LastName": "Ivanov",
+        "MaritalStatus": "Unmarried"
+      },
+      {
+        "LastName": "Vasileva",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "VA-90000.003.001.001",
+    "Area": 110,
+    "Address": "50, Seaside Blvd.",
+    "DateOfAcquisition": "22.07.2015",
+    "Owners": [
+      {
+        "LastName": "Nikolova",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "PA-44000.001.003.003",
+    "Area": 180,
+    "Address": "90, Market Square",
+    "DateOfAcquisition": "30.09.2013",
+    "Owners": [
+      {
+        "LastName": "Mihaylova",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "BU-80000.002.005.005",
+    "Area": 90,
+    "Address": "78, Pine Road",
+    "DateOfAcquisition": "15.09.2012",
+    "Owners": [
+      {
+        "LastName": "Angelov",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "SH-97000.001.003.003",
+    "Area": 85,
+    "Address": "102, Willow Lane",
+    "DateOfAcquisition": "07.06.2012",
+    "Owners": [
+      {
+        "LastName": "Georgiev",
+        "MaritalStatus": "Widowed"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "PL-58000.002.001.002",
+    "Area": 60,
+    "Address": "36, Riverside Apartments",
+    "DateOfAcquisition": "15.08.2011",
+    "Owners": [
+      {
+        "LastName": "Ilieva",
+        "MaritalStatus": "Married"
+      },
+      {
+        "LastName": "Ivanova",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "LO-55000.001.003.003",
+    "Area": 70,
+    "Address": "103, Market Street",
+    "DateOfAcquisition": "28.02.2011",
+    "Owners": [
+      {
+        "LastName": "Petrov",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "YA-86000.001.002.002",
+    "Area": 90,
+    "Address": "89, Riverside Avenue",
+    "DateOfAcquisition": "15.11.2010",
+    "Owners": [
+      {
+        "LastName": "Ivanova",
+        "MaritalStatus": "Divorced"
+      },
+      {
+        "LastName": "Stoyanov",
+        "MaritalStatus": "Divorced"
+      },
+      {
+        "LastName": "Todorova",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "VR-30000.001.003.003",
+    "Area": 60,
+    "Address": "33, Main Square",
+    "DateOfAcquisition": "18.08.2010",
+    "Owners": [
+      {
+        "LastName": "Petrova",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "SM-47000.006.003.003",
+    "Area": 65,
+    "Address": "22, Maple Square",
+    "DateOfAcquisition": "12.08.2010",
+    "Owners": [
+      {
+        "LastName": "Dimitrov",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "GA-53000.001.006.006",
+    "Area": 70,
+    "Address": "23, Elm Road",
+    "DateOfAcquisition": "30.07.2010",
+    "Owners": [
+      {
+        "LastName": "Petrov",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "SL-88000.005.005.005",
+    "Area": 85,
+    "Address": "44, Sycamore Plaza",
+    "DateOfAcquisition": "29.06.2010",
+    "Owners": [
+      {
+        "LastName": "Angelov",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "VT-50000.001.004.004",
+    "Area": 80,
+    "Address": "67, New Town Road",
+    "DateOfAcquisition": "17.06.2010",
+    "Owners": [
+      {
+        "LastName": "Georgieva",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "DO-93000.001.003.003",
+    "Area": 50,
+    "Address": "44, Market Street",
+    "DateOfAcquisition": "13.06.2010",
+    "Owners": [
+      {
+        "LastName": "Nikolova",
+        "MaritalStatus": "Married"
+      },
+      {
+        "LastName": "Nikolova",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "HA-63000.001.001.001",
+    "Area": 95,
+    "Address": "18, Elm Street",
+    "DateOfAcquisition": "12.05.2010",
+    "Owners": [
+      {
+        "LastName": "Vasileva",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "BU-80000.002.004.004",
+    "Area": 45,
+    "Address": "42, Central Blvd.",
+    "DateOfAcquisition": "11.05.2010",
+    "Owners": [
+      {
+        "LastName": "Dimitrova",
+        "MaritalStatus": "Divorced"
+      },
+      {
+        "LastName": "Dimitrova",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "RU-70000.005.003.003",
+    "Area": 140,
+    "Address": "56, Cedar Avenue",
+    "DateOfAcquisition": "22.04.2010",
+    "Owners": [
+      {
+        "LastName": "Kolev",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "PL-40000.002.004.004",
+    "Area": 1050,
+    "Address": "Plot 12, Suburban Area",
+    "DateOfAcquisition": "03.03.2010",
+    "Owners": [
+      {
+        "LastName": "Kostova",
+        "MaritalStatus": "Divorced"
+      },
+      {
+        "LastName": "Todorova",
+        "MaritalStatus": "Widowed"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "VA-90000.003.005.005",
+    "Area": 2300,
+    "Address": "45, Commerce Ave.",
+    "DateOfAcquisition": "28.08.2008",
+    "Owners": [
+      {
+        "LastName": "Stoyanov",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "PE-23000.001.003.003",
+    "Area": 100,
+    "Address": "12, New Park Road",
+    "DateOfAcquisition": "22.11.2006",
+    "Owners": [
+      {
+        "LastName": "Georgieva",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "PA-44000.001.002.002",
+    "Area": 220,
+    "Address": "78, Park Street",
+    "DateOfAcquisition": "12.07.2006",
+    "Owners": [
+      {
+        "LastName": "Georgiev",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "DO-93000.001.004.004",
+    "Area": 600,
+    "Address": "56, Greenfield Road",
+    "DateOfAcquisition": "21.11.2005",
+    "Owners": [
+      {
+        "LastName": "Pavlov",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "BL-27000.003.003.003",
+    "Area": 150,
+    "Address": "22, Elm Road",
+    "DateOfAcquisition": "30.09.2005",
+    "Owners": [
+      {
+        "LastName": "Petrova",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "TA-77000.001.002.002",
+    "Area": 85,
+    "Address": "112, River Road",
+    "DateOfAcquisition": "15.09.2005",
+    "Owners": [
+      {
+        "LastName": "Dimitrov",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "SL-88000.005.002.002",
+    "Area": 140,
+    "Address": "58, Elm Road",
+    "DateOfAcquisition": "10.09.2005",
+    "Owners": [
+      {
+        "LastName": "Kirova",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "GA-53000.001.004.004",
+    "Area": 330,
+    "Address": "78, Cherry Lane",
+    "DateOfAcquisition": "15.08.2005",
+    "Owners": [
+      {
+        "LastName": "Dimitrova",
+        "MaritalStatus": "Divorced"
+      },
+      {
+        "LastName": "Mihailov",
+        "MaritalStatus": "Widowed"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "BU-80000.002.002.002",
+    "Area": 60,
+    "Address": "24, River Road",
+    "DateOfAcquisition": "12.08.2005",
+    "Owners": [
+      {
+        "LastName": "Dobrev",
+        "MaritalStatus": "Married"
+      },
+      {
+        "LastName": "Todorova",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "SM-47000.006.006.006",
+    "Area": 85,
+    "Address": "99, Birch Boulevard",
+    "DateOfAcquisition": "15.07.2005",
+    "Owners": [
+      {
+        "LastName": "Petrova",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "SI-75000.004.001.001",
+    "Area": 230,
+    "Address": "47, Oak Street",
+    "DateOfAcquisition": "12.05.2005",
+    "Owners": [
+      {
+        "LastName": "Kolev",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "SH-97000.001.001.001",
+    "Area": 100,
+    "Address": "25, Oak Street",
+    "DateOfAcquisition": "14.04.2005",
+    "Owners": [
+      {
+        "LastName": "Georgiev",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "HA-63000.001.003.003",
+    "Area": 75,
+    "Address": "102, Birch Lane",
+    "DateOfAcquisition": "27.11.2003",
+    "Owners": [
+      {
+        "LastName": "Nikolova",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "KA-66000.001.004.004",
+    "Area": 70,
+    "Address": "84, Market Street",
+    "DateOfAcquisition": "09.11.2003",
+    "Owners": [
+      {
+        "LastName": "Dimitrov",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "DO-93000.001.005.005",
+    "Area": 90,
+    "Address": "72, Elm Street",
+    "DateOfAcquisition": "07.09.2002",
+    "Owners": [
+      {
+        "LastName": "Dimitrov",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "ST-60000.004.002.002",
+    "Area": 1150,
+    "Address": "68, Pine Street",
+    "DateOfAcquisition": "14.06.2002",
+    "Owners": [
+      {
+        "LastName": "Stoyanov",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "RU-70000.005.001.001",
+    "Area": 120,
+    "Address": "25, Maple Street",
+    "DateOfAcquisition": "01.06.2002",
+    "Owners": [
+      {
+        "LastName": "Vasileva",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "LO-55000.001.004.004",
+    "Area": 85,
+    "Address": "76, Riverside Drive",
+    "DateOfAcquisition": "20.10.2001",
+    "Owners": [
+      {
+        "LastName": "Petrova",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "PE-23000.001.005.005",
+    "Area": 85,
+    "Address": "78, Riverside Drive",
+    "DateOfAcquisition": "20.08.2001",
+    "Owners": [
+      {
+        "LastName": "Iliev",
+        "MaritalStatus": "Widowed"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "PA-44000.001.004.004",
+    "Area": 150,
+    "Address": "52, Twin Oaks Road",
+    "DateOfAcquisition": "15.08.2001",
+    "Owners": [
+      {
+        "LastName": "Georgiev",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "MO-34000.001.003.003",
+    "Area": 65,
+    "Address": "82, Market Street",
+    "DateOfAcquisition": "05.05.2001",
+    "Owners": [
+      {
+        "LastName": "Petrov",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "TA-77000.001.001.001",
+    "Area": 100,
+    "Address": "55, Oak Street",
+    "DateOfAcquisition": "28.04.2001",
+    "Owners": [
+      {
+        "LastName": "Petrova",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "PL-58000.002.002.001",
+    "Area": 120,
+    "Address": "58, Maple Street",
+    "DateOfAcquisition": "21.03.2001",
+    "Owners": [
+      {
+        "LastName": "Ivanov",
+        "MaritalStatus": "Married"
+      },
+      {
+        "LastName": "Petrova",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "PL-40000.002.002.002",
+    "Area": 95,
+    "Address": "88, River Road",
+    "DateOfAcquisition": "20.11.2000",
+    "Owners": [
+      {
+        "LastName": "Kolev",
+        "MaritalStatus": "Unmarried"
+      },
+      {
+        "LastName": "Vasileva",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "VR-30000.001.001.001",
+    "Area": 180,
+    "Address": "77, Elm Street",
+    "DateOfAcquisition": "05.11.2000",
+    "Owners": [
+      {
+        "LastName": "Dimitrov",
+        "MaritalStatus": "Divorced"
+      },
+      {
+        "LastName": "Kostov",
+        "MaritalStatus": "Widowed"
+      },
+      {
+        "LastName": "Vasileva",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "RU-70000.005.005.005",
+    "Area": 85,
+    "Address": "18, Birch Lane",
+    "DateOfAcquisition": "10.10.2000",
+    "Owners": [
+      {
+        "LastName": "Petrov",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "VT-50000.001.003.003",
+    "Area": 150,
+    "Address": "33, Suburb Street",
+    "DateOfAcquisition": "22.08.2000",
+    "Owners": [
+      {
+        "LastName": "Mihaylova",
+        "MaritalStatus": "Divorced"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "SI-75000.004.003.003",
+    "Area": 80,
+    "Address": "33, Aspen Boulevard",
+    "DateOfAcquisition": "08.08.2000",
+    "Owners": [
+      {
+        "LastName": "Ivanov",
+        "MaritalStatus": "Widowed"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "RA-72000.004.003.003",
+    "Area": 150,
+    "Address": "33, Oak Street",
+    "DateOfAcquisition": "05.05.2000",
+    "Owners": [
+      {
+        "LastName": "Dimitrov",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "SM-47000.006.001.001",
+    "Area": 70,
+    "Address": "35, Oak Street",
+    "DateOfAcquisition": "05.05.2000",
+    "Owners": [
+      {
+        "LastName": "Dobrev",
+        "MaritalStatus": "Married"
+      }
+    ]
+  },
+  {
+    "PropertyIdentifier": "DO-93000.001.002.002",
+    "Area": 75,
+    "Address": "29, Maple Avenue",
+    "DateOfAcquisition": "05.03.2000",
+    "Owners": [
+      {
+        "LastName": "Georgiev",
+        "MaritalStatus": "Unmarried"
+      }
+    ]
+  }
+]

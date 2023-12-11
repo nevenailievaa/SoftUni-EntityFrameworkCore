@@ -1,0 +1,984 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Districts>
+	<District Region="SouthWest">
+		<Name>Sofia</Name>
+		<PostalCode>SF-10000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>SF-10000.001.001.001</PropertyIdentifier>
+				<Area>71</Area>
+				<Details>One-bedroom apartment</Details>
+				<Address>Apartment 5, 23 Silverado Street, Sofia</Address>
+				<DateOfAcquisition>15/03/2022</DateOfAcquisition>
+			</Property>			
+			<Property>
+				<PropertyIdentifier>SF-10000.003.002.001</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Spacious two-bedroom apartment near central park</Details>
+				<Address>Apartment 8, 47 Green Street, Sofia</Address>
+				<DateOfAcquisition>01/02/2022</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SF-10000.004.002.002</PropertyIdentifier>
+				<Area>150</Area>
+				<Details>Luxury penthouse with panoramic city views</Details>
+				<Address>Penthouse 2, 55 High Tower Road, Sofia</Address>
+				<DateOfAcquisition>10/02/2023</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SF-10000.005.003.001</PropertyIdentifier>
+				<Area>80</Area>
+				<Details>Compact studio apartment.</Details>
+				<Address>Studio 12, 12 University Blvd, Sofia</Address>
+				<DateOfAcquisition>05/09/2021</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SF-10000.006.003.002</PropertyIdentifier>
+				<Area>100</Area>
+				<Details>Apartment with a large balcony</Details>
+				<Address>Apartment 21, 33 Family Street, Sofia</Address>
+				<DateOfAcquisition>15/07/2022</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="SouthWest">
+		<Name>Plovdiv</Name>
+		<PostalCode>PL-40000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>PL-40000.002.001.001</PropertyIdentifier>
+				<Area>180</Area>
+				<Details>Brick construction, garden, garage, solar panels.</Details>
+				<Address>32, Maple Avenue</Address>
+				<DateOfAcquisition>14/06/1980</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PL-40000.002.002.002</PropertyIdentifier>
+				<Area>95</Area>
+				<Details>Apartment with basic amenities.</Details>
+				<Address>88, River Road</Address>
+				<DateOfAcquisition>20/11/2000</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PL-40000.002.003.003</PropertyIdentifier>
+				<Area>250</Area>
+				<Details>Restored villa, pool, guest house, garden.</Details>
+				<Address>19, Heritage Lane</Address>
+				<DateOfAcquisition>05/08/1995</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PL-40000.002.004.004</PropertyIdentifier>
+				<Area>1050</Area>
+				<Details>Land parcel, undeveloped, near urban area.</Details>
+				<Address>Plot 12, Suburban Area</Address>
+				<DateOfAcquisition>03/03/2010</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthEast">
+		<Name>Varna</Name>
+		<PostalCode>VA-90000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>VA-90000.003.001.001</PropertyIdentifier>
+				<Area>110</Area>
+				<Details>Beachfront condo, private balcony, open-plan living, modern finishes, built in 2015.</Details>
+				<Address>50, Seaside Blvd.</Address>
+				<DateOfAcquisition>22/07/2015</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>VA-90000.003.002.002</PropertyIdentifier>
+				<Area>75</Area>
+				<Details>Townhouse, two bedrooms, rooftop terrace, courtyard, renovated in 2019.</Details>
+				<Address>15, Old Town Street</Address>
+				<DateOfAcquisition>11/09/2019</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>VA-90000.003.003.003</PropertyIdentifier>
+				<Area>200</Area>
+				<Details>Penthouse, private elevator, designer interiors, spacious terrace, high-rise building.</Details>
+				<Address>99, High Street</Address>
+				<DateOfAcquisition>03/02/2021</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>VA-90000.003.004.004</PropertyIdentifier>
+				<Area>140</Area>
+				<Details>Family home, garden, pool, built in 1980s, recently refurbished.</Details>
+				<Address>202, Suburbia Lane</Address>
+				<DateOfAcquisition>17/05/1990</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>VA-90000.003.005.005</PropertyIdentifier>
+				<Area>2300</Area>
+				<Details>Commercial building, multiple retail spaces, large parking, built in 2008.</Details>
+				<Address>45, Commerce Ave.</Address>
+				<DateOfAcquisition>28/08/2008</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="SouthEast">
+		<Name>Burgas</Name>
+		<PostalCode>BU-80000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>BU-80000.002.001.001</PropertyIdentifier>
+				<Area>80</Area>
+				<Details>Single-family home, two-story, built in 1990, with a small garden and garage.</Details>
+				<Address>15, Oak Street</Address>
+				<DateOfAcquisition>05/04/1990</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>BU-80000.002.002.002</PropertyIdentifier>
+				<Area>60</Area>
+				<Details>Apartment, third floor, built in 2005, two bedrooms, one bathroom.</Details>
+				<Address>24, River Road</Address>
+				<DateOfAcquisition>12/08/2005</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>BU-80000.002.003.003</PropertyIdentifier>
+				<Area>50</Area>
+				<Details>Townhouse, constructed in 1998, with small backyard and attic space.</Details>
+				<Address>33, Maple Avenue</Address>
+				<DateOfAcquisition>20/06/1998</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>BU-80000.002.004.004</PropertyIdentifier>
+				<Area>45</Area>
+				<Details>Studio apartment, central location, built in 2010, balcony facing the street.</Details>
+				<Address>42, Central Blvd.</Address>
+				<DateOfAcquisition>11/05/2010</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>BU-80000.002.005.005</PropertyIdentifier>
+				<Area>90</Area>
+				<Details>Detached bungalow, recently renovated in 2012, three bedrooms, open kitchen.</Details>
+				<Address>78, Pine Road</Address>
+				<DateOfAcquisition>15/09/2012</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="SouthWest">
+		<Name>Blagoevgrad</Name>
+		<PostalCode>BL-27000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>BL-27000.003.001.001</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Single-story house with a garden, constructed in 1990. Includes a living room, two bedrooms, and a kitchen.</Details>
+				<Address>45, Green Street</Address>
+				<DateOfAcquisition>25/04/1990</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>BL-27000.003.002.002</PropertyIdentifier>
+				<Area>90</Area>
+				<Details>Apartment in a residential building, built in 1980. Comprises three rooms and a balcony with a city view.</Details>
+				<Address>67, Oak Avenue</Address>
+				<DateOfAcquisition>17/07/1980</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>BL-27000.003.003.003</PropertyIdentifier>
+				<Area>150</Area>
+				<Details>Detached family home, established in 2005, with a small backyard and garage space.</Details>
+				<Address>22, Elm Road</Address>
+				<DateOfAcquisition>30/09/2005</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>BL-27000.003.004.004</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Townhouse with two floors, built in 1995, featuring a modern kitchen and cozy living area.</Details>
+				<Address>12, Maple Lane</Address>
+				<DateOfAcquisition>05/05/1995</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthEast">
+		<Name>Veliko Tarnovo</Name>
+		<PostalCode>VT-50000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>VT-50000.001.002.002</PropertyIdentifier>
+				<Area>100</Area>
+				<Details>Apartment in a residential building, located near the city center. Two bedrooms, a modern kitchen, and a balcony overlooking the park.</Details>
+				<Address>22, Central Ave.</Address>
+				<DateOfAcquisition>12/11/1990</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>VT-50000.001.003.003</PropertyIdentifier>
+				<Area>150</Area>
+				<Details>Detached family home in a suburban area. Spacious living areas, four bedrooms, a garage, and a landscaped backyard.</Details>
+				<Address>33, Suburb Street</Address>
+				<DateOfAcquisition>22/08/2000</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>VT-50000.001.004.004</PropertyIdentifier>
+				<Area>80</Area>
+				<Details>Compact townhouse with a contemporary design. Features energy-efficient appliances, two bedrooms, and a small patio.</Details>
+				<Address>67, New Town Road</Address>
+				<DateOfAcquisition>17/06/2010</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>VT-50000.001.005.005</PropertyIdentifier>
+				<Area>250</Area>
+				<Details>Spacious villa, featuring a large living room, a modern kitchen, five bedrooms, and an outdoor swimming pool.</Details>
+				<Address>90, Hillside Drive</Address>
+				<DateOfAcquisition>09/09/2015</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthWest">
+		<Name>Vidin</Name>
+		<PostalCode>VI-37000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>VI-37000.001.001.001</PropertyIdentifier>
+				<Area>350</Area>
+				<Details>Constructed in 1975, concrete and brick structure with central heating. Compliant with general residential building codes.</Details>
+				<Address>12, Liberty Street</Address>
+				<DateOfAcquisition>10/10/1975</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>VI-37000.001.002.002</PropertyIdentifier>
+				<Area>80</Area>
+				<Details>Ground floor retail shop constructed in 1980, with basic electrical and plumbing infrastructure.</Details>
+				<Address>48, Commerce Ave.</Address>
+				<DateOfAcquisition>15/04/1980</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>VI-37000.001.003.003</PropertyIdentifier>
+				<Area>800</Area>
+				<Details>Warehouse erected in 1990, includes loading docks, insulation, and safety features for storage and distribution.</Details>
+				<Address>100, Industrial Rd.</Address>
+				<DateOfAcquisition>20/08/1990</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>VI-37000.001.004.004</PropertyIdentifier>
+				<Area>60</Area>
+				<Details>Apartment building from 1985, with four units, including basic amenities and safety features. Complies with housing regulations for small multi-unit dwellings.</Details>
+				<Address>35, Maple St.</Address>
+				<DateOfAcquisition>12/07/1985</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>VI-37000.001.005.005</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Office building constructed in 1995, includes office facilities, telecommunications infrastructure, and security features.</Details>
+				<Address>22, Office Plaza</Address>
+				<DateOfAcquisition>30/09/1995</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthWest">
+		<Name>Vratsa</Name>
+		<PostalCode>VR-30000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>VR-30000.001.001.001</PropertyIdentifier>
+				<Area>180</Area>
+				<Details>Single-family house built in 1980. Comprises three bedrooms, a kitchen, and a living room. Equipped with standard residential utilities and safety features.</Details>
+				<Address>77, Elm Street</Address>
+				<DateOfAcquisition>05/11/2000</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>VR-30000.001.002.002</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Duplex housing structure, constructed in 1970. Each unit includes two bedrooms, a kitchen, and a living area. Compliant with local residential building codes.</Details>
+				<Address>9, Oak Street</Address>
+				<DateOfAcquisition>22/03/1995</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>VR-30000.001.003.003</PropertyIdentifier>
+				<Area>60</Area>
+				<Details>Small commercial shop built in 1990. Includes a main customer area and a storage space.</Details>
+				<Address>33, Main Square</Address>
+				<DateOfAcquisition>18/08/2010</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthEast">
+		<Name>Gabrovo</Name>
+		<PostalCode>GA-53000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>GA-53000.001.001.001</PropertyIdentifier>
+				<Area>80</Area>
+				<Details>Two-bedroom family home with a garden, constructed in 1965. Features include a living area, kitchen, and a bathroom.</Details>
+				<Address>12, Liberty Avenue</Address>
+				<DateOfAcquisition>14/06/1985</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>GA-53000.001.002.002</PropertyIdentifier>
+				<Area>65</Area>
+				<Details>Apartment in a multi-unit building, built in 1950. Comprises a living room, bedroom, kitchen, and a bathroom.</Details>
+				<Address>34, Oak Street</Address>
+				<DateOfAcquisition>09/11/1990</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>GA-53000.001.003.003</PropertyIdentifier>
+				<Area>95</Area>
+				<Details>Detached single-story house, established in 1980. Includes a living area, two bedrooms, a kitchen, and a garden.</Details>
+				<Address>56, Pine Street</Address>
+				<DateOfAcquisition>03/04/1998</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>GA-53000.001.004.004</PropertyIdentifier>
+				<Area>330</Area>
+				<Details>Family villa with a garden and garage, built in 1995. Features a living room, three bedrooms, two bathrooms, and a kitchen. Regular inspections conducted for property upkeep.</Details>
+				<Address>78, Cherry Lane</Address>
+				<DateOfAcquisition>15/08/2005</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>GA-53000.001.005.005</PropertyIdentifier>
+				<Area>45</Area>
+				<Details>Compact retail store, established in 1972 in the town center. Storage area at the back.</Details>
+				<Address>22, Main Street</Address>
+				<DateOfAcquisition>20/01/1989</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>GA-53000.001.006.006</PropertyIdentifier>
+				<Area>70</Area>
+				<Details>Small duplex house, constructed in 2000. Each unit has a living area, bedroom, kitchen, and bathroom.</Details>
+				<Address>23, Elm Road</Address>
+				<DateOfAcquisition>30/07/2010</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>GA-53000.001.007.007</PropertyIdentifier>
+				<Area>150</Area>
+				<Details>Countryside cottage built in 1990. Features include three bedrooms, a living room, a kitchen, and an  outdoor area.</Details>
+				<Address>45, Country Road</Address>
+				<DateOfAcquisition>22/02/1995</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthEast">
+		<Name>Dobrich</Name>
+		<PostalCode>DO-93000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>DO-93000.001.001.001</PropertyIdentifier>
+				<Area>80</Area>
+				<Details>Single-family home with a garden, built in 1985. Features include a living room, kitchen, two bedrooms, and one bathroom. Regularly maintained for structural safety.</Details>
+				<Address>17, Garden Lane</Address>
+				<DateOfAcquisition>20/08/1995</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>DO-93000.001.002.002</PropertyIdentifier>
+				<Area>75</Area>
+				<Details>Apartment in a residential complex, constructed in 1975. Comprises living space, kitchen, bedroom, and bathroom, equipped with central heating.</Details>
+				<Address>29, Maple Avenue</Address>
+				<DateOfAcquisition>05/03/2000</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>DO-93000.001.003.003</PropertyIdentifier>
+				<Area>50</Area>
+				<Details>Small retail store specializing in local produce, established in 1990. Includes sales area and storage facilities, compliant with retail regulations.</Details>
+				<Address>44, Market Street</Address>
+				<DateOfAcquisition>13/06/2010</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>DO-93000.001.004.004</PropertyIdentifier>
+				<Area>600</Area>
+				<Details>Small urban land plot, suitable for construction or gardening. Located in a residential area, offering potential for development or private use.</Details>
+				<Address>56, Greenfield Road</Address>
+				<DateOfAcquisition>21/11/2005</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>DO-93000.001.005.005</PropertyIdentifier>
+				<Area>90</Area>
+				<Details>Duplex house built in 1995, each unit consisting of a living room, kitchen, two bedrooms, and a bathroom. Well-maintained and located in a family-friendly neighborhood.</Details>
+				<Address>72, Elm Street</Address>
+				<DateOfAcquisition>07/09/2002</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="SouthEast">
+		<Name>Kardzhali</Name>
+		<PostalCode>KA-66000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>KA-66000.001.002.002</PropertyIdentifier>
+				<Area>360</Area>
+				<Details>Multi-unit residential building constructed in 1978. Each apartment includes its own living space, kitchen, and bathroom. The building features communal areas and individual heating systems.</Details>
+				<Address>58, Grove Lane</Address>
+				<DateOfAcquisition>23/07/1985</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>KA-66000.001.001.001</PropertyIdentifier>
+				<Area>85</Area>
+				<Details>Single-family home built in 1985. Includes three bedrooms, a kitchen, a living area, and a small garden. Regular maintenance ensures structural soundness and family comfort.</Details>
+				<Address>47, Cherry Lane</Address>
+				<DateOfAcquisition>11/03/1987</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>KA-66000.001.003.003</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Small retail shop and storeroom established in 1992. Includes a storefront and back-office space, suitable for local businesses or start-ups.</Details>
+				<Address>76, Main Street</Address>
+				<DateOfAcquisition>22/10/1993</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>KA-66000.001.004.004</PropertyIdentifier>
+				<Area>70</Area>
+				<Details>Small family-owned restaurant established in 2000. Includes a kitchen, dining area, and a small outdoor seating space. Regular health and safety checks conducted.</Details>
+				<Address>84, Market Street</Address>
+				<DateOfAcquisition>09/11/2003</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>KA-66000.001.005.005</PropertyIdentifier>
+				<Area>100</Area>
+				<Details>Two-story residential building constructed in 1990. Comprises four individual housing units, each with basic amenities and a small balcony.</Details>
+				<Address>22, Pine Avenue</Address>
+				<DateOfAcquisition>05/06/1991</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="SouthWest">
+		<Name>Kyustendil</Name>
+		<PostalCode>KY-25000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>KY-25000.001.001.001</PropertyIdentifier>
+				<Area>90</Area>
+				<Details>Single-family detached house built in 1970. Consists of three bedrooms, a kitchen, and a living area. Regular upkeep to maintain structural integrity and comfort.</Details>
+				<Address>15, Elm Street</Address>
+				<DateOfAcquisition>05/07/1972</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>KY-25000.001.002.002</PropertyIdentifier>
+				<Area>75</Area>
+				<Details>Two-bedroom apartment located in a residential building constructed in 1980. Features basic amenities suitable for small families or couples.</Details>
+				<Address>26, Birch Avenue</Address>
+				<DateOfAcquisition>18/11/1981</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>KY-25000.001.003.003</PropertyIdentifier>
+				<Area>60</Area>
+				<Details>Local bakery shop with a storefront, established in 1995. Occupies a space of 60 sq. meters and includes a small kitchen and sales area.</Details>
+				<Address>87, Market Square</Address>
+				<DateOfAcquisition>23/08/1996</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>KY-25000.001.004.004</PropertyIdentifier>
+				<Area>125</Area>
+				<Details>Three-bedroom family house with a garden, constructed in 1985. Includes a living room, dining area, and a garage. Regular maintenance for habitability.</Details>
+				<Address>68, Pine Lane</Address>
+				<DateOfAcquisition>14/06/1986</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthWest">
+		<Name>Lovech</Name>
+		<PostalCode>LO-55000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>LO-55000.001.001.001</PropertyIdentifier>
+				<Area>90</Area>
+				<Details>Single-family house with a garden, built in 1980. The property features a living room, two bedrooms, and a garage. Regular maintenance ensures good living conditions.</Details>
+				<Address>17, Oak Street</Address>
+				<DateOfAcquisition>25/06/1981</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>LO-55000.001.002.002</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Duplex home constructed in 1995. Each unit has separate entrances and includes three bedrooms, a kitchen, and a small backyard area.</Details>
+				<Address>59, Elm Avenue</Address>
+				<DateOfAcquisition>15/08/1996</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>LO-55000.001.003.003</PropertyIdentifier>
+				<Area>70</Area>
+				<Details>Small retail space, suitable for a local grocery store or a café, located in a bustling market area. The property was refurbished in 2010 to enhance its commercial appeal.</Details>
+				<Address>103, Market Street</Address>
+				<DateOfAcquisition>28/02/2011</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>LO-55000.001.004.004</PropertyIdentifier>
+				<Area>85</Area>
+				<Details>Modern apartment in a residential complex, built in 2000. The apartment includes two bedrooms, a living room, and a balcony, offering a view of the city.</Details>
+				<Address>76, Riverside Drive</Address>
+				<DateOfAcquisition>20/10/2001</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>LO-55000.001.005.005</PropertyIdentifier>
+				<Area>60</Area>
+				<Details>Cozy bungalow with a small garden, built in 1990. Ideal for small families, featuring two bedrooms, a kitchen, and a living area with a fireplace.</Details>
+				<Address>42, Cherry Lane</Address>
+				<DateOfAcquisition>05/09/1991</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthWest">
+		<Name>Montana</Name>
+		<PostalCode>MO-34000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>MO-34000.001.001.001</PropertyIdentifier>
+				<Area>95</Area>
+				<Details>Single-family detached house, built in 1985. Includes a living room, three bedrooms, a kitchen, and a garden. Regular maintenance conducted, with the roof replaced in 2018.</Details>
+				<Address>76, Pine Road</Address>
+				<DateOfAcquisition>16/07/1986</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>MO-34000.001.002.002</PropertyIdentifier>
+				<Area>110</Area>
+				<Details>Two-story townhouse constructed in 1992. Features include an open-plan living area, a small backyard, and energy-efficient heating systems. Located in a family-friendly neighborhood.</Details>
+				<Address>145, Willow Lane</Address>
+				<DateOfAcquisition>22/10/1993</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>MO-34000.001.003.003</PropertyIdentifier>
+				<Area>65</Area>
+				<Details>Small retail space, established in 2000. Ideal for local businesses, includes a storefront and storage area. Situated in a busy commercial district with high pedestrian traffic.</Details>
+				<Address>82, Market Street</Address>
+				<DateOfAcquisition>05/05/2001</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="SouthWest">
+		<Name>Pazardzhik</Name>
+		<PostalCode>PA-44000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>PA-44000.001.001.001</PropertyIdentifier>
+				<Area>300</Area>
+				<Details>Public healthcare facility established in 1990. Includes emergency services, outpatient care, and specialized departments. Regularly updated to meet health and safety standards.</Details>
+				<Address>35, Health Avenue</Address>
+				<DateOfAcquisition>22/05/1991</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PA-44000.001.002.002</PropertyIdentifier>
+				<Area>220</Area>
+				<Details>Multi-storey parking structure built in 2005. Provides secure parking solutions with a capacity of 220 vehicles. Equipped with surveillance and automated entry systems.</Details>
+				<Address>78, Park Street</Address>
+				<DateOfAcquisition>12/07/2006</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PA-44000.001.003.003</PropertyIdentifier>
+				<Area>180</Area>
+				<Details>Three-story commercial complex, housing retail stores and office spaces. Constructed in 2012 with energy-efficient design and accessibility features.</Details>
+				<Address>90, Market Square</Address>
+				<DateOfAcquisition>30/09/2013</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PA-44000.001.004.004</PropertyIdentifier>
+				<Area>150</Area>
+				<Details>Residential duplex built in 2000. Consists of two independent living units, each with separate utilities and entrances. Regular maintenance ensures quality living conditions.</Details>
+				<Address>52, Twin Oaks Road</Address>
+				<DateOfAcquisition>15/08/2001</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="SouthWest">
+		<Name>Pernik</Name>
+		<PostalCode>PE-23000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>PE-23000.001.001.001</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Single-family home, constructed in 1980. Structure includes three bedrooms, two bathrooms, and a garage. Regularly maintained, including recent roof repairs in 2018.</Details>
+				<Address>35, Quiet Street</Address>
+				<DateOfAcquisition>05/06/1981</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PE-23000.001.002.002</PropertyIdentifier>
+				<Area>150</Area>
+				<Details>Duplex house, built in 1995. Each unit has separate entrances, two bedrooms, a kitchen, and a living area. Fenced backyard and updated heating system installed in 2015.</Details>
+				<Address>47, Garden Avenue</Address>
+				<DateOfAcquisition>10/09/1996</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PE-23000.001.003.003</PropertyIdentifier>
+				<Area>100</Area>
+				<Details>Townhouse located in a residential complex, constructed in 2005. Two-story building with a small garden, central heating, and energy-efficient windows installed in 2017.</Details>
+				<Address>12, New Park Road</Address>
+				<DateOfAcquisition>22/11/2006</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PE-23000.001.004.004</PropertyIdentifier>
+				<Area>140</Area>
+				<Details>Four-bedroom family home with a spacious living room and kitchen, built in 1990. Features include a fireplace and a renovated bathroom as of 2019.</Details>
+				<Address>55, Elm Street</Address>
+				<DateOfAcquisition>15/07/1991</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PE-23000.001.005.005</PropertyIdentifier>
+				<Area>85</Area>
+				<Details>Cozy cottage built in 2000, located near local amenities. Includes two bedrooms, a living room, a kitchen, and a small outdoor patio area. Heating system upgraded in 2016.</Details>
+				<Address>78, Riverside Drive</Address>
+				<DateOfAcquisition>20/08/2001</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthWest">
+		<Name>Pleven</Name>
+		<PostalCode>PL-58000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>PL-58000.002.001.001</PropertyIdentifier>
+				<Area>80</Area>
+				<Details>Residential house; constructed in 1995. Brick structure with a total area of 80 sq. meters, including garden space. Roofing and insulation renovated in 2018.</Details>
+				<Address>12, Greenfield Road</Address>
+				<DateOfAcquisition>10/06/1996</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PL-58000.002.001.002</PropertyIdentifier>
+				<Area>60</Area>
+				<Details>Apartment in a residential complex; built in 2010. Third-floor location with an area of 60 sq. meters. Central heating system, balcony included.</Details>
+				<Address>36, Riverside Apartments</Address>
+				<DateOfAcquisition>15/08/2011</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PL-58000.002.002.001</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Townhouse; constructed in 2000. Total area of 120 sq. meters, includes garage and backyard. Features energy-efficient windows and solar water heating system (2015).</Details>
+				<Address>58, Maple Street</Address>
+				<DateOfAcquisition>21/03/2001</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PL-58000.002.002.002</PropertyIdentifier>
+				<Area>45</Area>
+				<Details>Studio apartment; part of a building constructed in 1990. Total area of 45 sq. meters. Kitchenette, electrical wiring, and plumbing renovated in 2017.</Details>
+				<Address>27, Central Plaza</Address>
+				<DateOfAcquisition>09/07/1991</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>PL-58000.002.003.001</PropertyIdentifier>
+				<Area>95</Area>
+				<Details>Bungalow-style house; built in 1985. Single-story, 95 sq. meters area, conservatory addition in 2005.</Details>
+				<Address>82, Hillview Avenue</Address>
+				<DateOfAcquisition>30/11/1986</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthEast">
+		<Name>Razgrad</Name>
+		<PostalCode>RA-72000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>RA-72000.004.001.001</PropertyIdentifier>
+				<Area>100</Area>
+				<Details>Two-bedroom apartment, second floor, central heating, built in 1990.</Details>
+				<Address>12, Central Street</Address>
+				<DateOfAcquisition>15/03/1990</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>RA-72000.004.002.002</PropertyIdentifier>
+				<Area>80</Area>
+				<Details>Single-family house, three bedrooms, one bathroom, built in 1985.</Details>
+				<Address>47, Green Lane</Address>
+				<DateOfAcquisition>20/07/1985</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>RA-72000.004.003.003</PropertyIdentifier>
+				<Area>150</Area>
+				<Details>Detached house, four bedrooms, two bathrooms, garage, built in 2000.</Details>
+				<Address>33, Oak Street</Address>
+				<DateOfAcquisition>05/05/2000</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>RA-72000.004.004.004</PropertyIdentifier>
+				<Area>60</Area>
+				<Details>One-bedroom apartment, third floor, built in 1995, near public transport.</Details>
+				<Address>89, River Road</Address>
+				<DateOfAcquisition>11/11/1995</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthEast">
+		<Name>Ruse</Name>
+		<PostalCode>RU-70000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>RU-70000.005.001.001</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Three-bedroom house, single-story, built in 2002, with a small garden.</Details>
+				<Address>25, Maple Street</Address>
+				<DateOfAcquisition>01/06/2002</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>RU-70000.005.002.002</PropertyIdentifier>
+				<Area>90</Area>
+				<Details>Apartment with two bedrooms, built in 1998, located on the fourth floor.</Details>
+				<Address>78, Elm Street</Address>
+				<DateOfAcquisition>15/08/1998</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>RU-70000.005.003.003</PropertyIdentifier>
+				<Area>140</Area>
+				<Details>Detached family home, four bedrooms, two bathrooms, built in 2010.</Details>
+				<Address>56, Cedar Avenue</Address>
+				<DateOfAcquisition>22/04/2010</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>RU-70000.005.004.004</PropertyIdentifier>
+				<Area>70</Area>
+				<Details>Small cottage, two bedrooms, built in 1995, with a front porch.</Details>
+				<Address>102, Pine Road</Address>
+				<DateOfAcquisition>03/07/1995</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>RU-70000.005.005.005</PropertyIdentifier>
+				<Area>85</Area>
+				<Details>Ground floor apartment, two bedrooms, built in 2000, with a backyard.</Details>
+				<Address>18, Birch Lane</Address>
+				<DateOfAcquisition>10/10/2000</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthEast">
+		<Name>Silistra</Name>
+		<PostalCode>SI-75000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>SI-75000.004.001.001</PropertyIdentifier>
+				<Area>230</Area>
+				<Details>Two-story house with three bedrooms, built in 2005, includes an attached garage.</Details>
+				<Address>47, Oak Street</Address>
+				<DateOfAcquisition>12/05/2005</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SI-75000.004.002.002</PropertyIdentifier>
+				<Area>100</Area>
+				<Details>Single-story house with two bedrooms, built in 1990, includes a small front yard.</Details>
+				<Address>89, Willow Avenue</Address>
+				<DateOfAcquisition>30/03/1990</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SI-75000.004.003.003</PropertyIdentifier>
+				<Area>80</Area>
+				<Details>Apartment located on the third floor, two bedrooms, built in 2000, with a balcony.</Details>
+				<Address>33, Aspen Boulevard</Address>
+				<DateOfAcquisition>08/08/2000</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="SouthEast">
+		<Name>Sliven</Name>
+		<PostalCode>SL-88000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>SL-88000.005.001.001</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Bungalow with two bedrooms, constructed in 1998, includes central heating and a private driveway.</Details>
+				<Address>22, Pine Street</Address>
+				<DateOfAcquisition>15/07/1998</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SL-88000.005.002.002</PropertyIdentifier>
+				<Area>140</Area>
+				<Details>Detached house with four bedrooms, built in 2005, features a garden and a conservatory.</Details>
+				<Address>58, Elm Road</Address>
+				<DateOfAcquisition>10/09/2005</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SL-88000.005.003.003</PropertyIdentifier>
+				<Area>90</Area>
+				<Details>Semi-detached house with three bedrooms, built in 1985, includes a garage and rear garden.</Details>
+				<Address>99, Cedar Lane</Address>
+				<DateOfAcquisition>20/11/1985</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SL-88000.005.004.004</PropertyIdentifier>
+				<Area>160</Area>
+				<Details>Townhouse with three bedrooms, constructed in 1995, includes a fitted kitchen and a small patio.</Details>
+				<Address>11, Birch Avenue</Address>
+				<DateOfAcquisition>03/03/1995</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SL-88000.005.005.005</PropertyIdentifier>
+				<Area>85</Area>
+				<Details>Ground floor apartment with two bedrooms, built in 2010, includes a living-dining area and secured entry.</Details>
+				<Address>44, Sycamore Plaza</Address>
+				<DateOfAcquisition>29/06/2010</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="SouthWest">
+		<Name>Smolyan</Name>
+		<PostalCode>SM-47000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>SM-47000.006.001.001</PropertyIdentifier>
+				<Area>70</Area>
+				<Details>One-bedroom apartment, built in 2000, includes a balcony and a modern kitchen.</Details>
+				<Address>35, Oak Street</Address>
+				<DateOfAcquisition>05/05/2000</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SM-47000.006.002.002</PropertyIdentifier>
+				<Area>80</Area>
+				<Details>Two-bedroom apartment, constructed in 1990, features city views and a separate laundry room.</Details>
+				<Address>78, Spruce Avenue</Address>
+				<DateOfAcquisition>17/04/1990</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SM-47000.006.003.003</PropertyIdentifier>
+				<Area>65</Area>
+				<Details>Compact studio apartment, built in 2010, includes an open-plan design and efficient storage solutions.</Details>
+				<Address>22, Maple Square</Address>
+				<DateOfAcquisition>12/08/2010</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SM-47000.006.004.004</PropertyIdentifier>
+				<Area>90</Area>
+				<Details>Three-bedroom apartment, constructed in 1995, features a spacious living area and two bathrooms.</Details>
+				<Address>10, Poplar Place</Address>
+				<DateOfAcquisition>29/09/1995</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SM-47000.006.005.005</PropertyIdentifier>
+				<Area>75</Area>
+				<Details>Two-bedroom apartment, built in 1988, includes a fitted kitchen and central heating.</Details>
+				<Address>55, Willow Way</Address>
+				<DateOfAcquisition>03/11/1988</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SM-47000.006.006.006</PropertyIdentifier>
+				<Area>85</Area>
+				<Details>Top-floor apartment with two bedrooms, constructed in 2005, offers panoramic views and a private terrace.</Details>
+				<Address>99, Birch Boulevard</Address>
+				<DateOfAcquisition>15/07/2005</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="SouthEast">
+		<Name>Stara Zagora</Name>
+		<PostalCode>ST-60000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>ST-60000.004.001.001</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Single-story house with three bedrooms, built in 1998, includes a fireplace and a garage.</Details>
+				<Address>47, Elm Road</Address>
+				<DateOfAcquisition>20/10/1998</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>ST-60000.004.002.002</PropertyIdentifier>
+				<Area>1150</Area>
+				<Details>One-story house with a large garden, constructed in 2002, includes two bathrooms and a kitchen.</Details>
+				<Address>68, Pine Street</Address>
+				<DateOfAcquisition>14/06/2002</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>ST-60000.004.003.003</PropertyIdentifier>
+				<Area>180</Area>
+				<Details>Single-story house with four bedrooms, built in 1990, includes central heating and a patio.</Details>
+				<Address>89, Cedar Lane</Address>
+				<DateOfAcquisition>05/12/1990</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>ST-60000.004.004.004</PropertyIdentifier>
+				<Area>130</Area>
+				<Details>One-story house, constructed in 1985, with three bedrooms, a modern kitchen, and a living room.</Details>
+				<Address>22, Birch Avenue</Address>
+				<DateOfAcquisition>17/08/1985</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthEast">
+		<Name>Targovishte</Name>
+		<PostalCode>TA-77000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>TA-77000.001.001.001</PropertyIdentifier>
+				<Area>100</Area>
+				<Details>One-story house, built in 2001, with two bedrooms, a kitchen, and a living room, includes a small garden.</Details>
+				<Address>55, Oak Street</Address>
+				<DateOfAcquisition>28/04/2001</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>TA-77000.001.002.002</PropertyIdentifier>
+				<Area>85</Area>
+				<Details>Apartment on the second floor, constructed in 2005, with three rooms, a balcony, and central heating.</Details>
+				<Address>112, River Road</Address>
+				<DateOfAcquisition>15/09/2005</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>TA-77000.001.003.003</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Single-story house with three bedrooms, built in 1996, includes a fireplace, a garage, and an attic.</Details>
+				<Address>23, Maple Avenue</Address>
+				<DateOfAcquisition>20/11/1996</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="SouthEast">
+		<Name>Haskovo</Name>
+		<PostalCode>HA-63000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>HA-63000.001.001.001</PropertyIdentifier>
+				<Area>95</Area>
+				<Details>Ground-floor apartment with two bedrooms, constructed in 2010, includes central heating and a storage room.</Details>
+				<Address>18, Elm Street</Address>
+				<DateOfAcquisition>12/05/2010</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>HA-63000.001.002.002</PropertyIdentifier>
+				<Area>130</Area>
+				<Details>Detached house built in 1998, with a garden, three bedrooms, and a solar water heater.</Details>
+				<Address>47, Pine Road</Address>
+				<DateOfAcquisition>03/08/1998</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>HA-63000.001.003.003</PropertyIdentifier>
+				<Area>75</Area>
+				<Details>Third-floor apartment, built in 2003, with two bedrooms, a balcony, and an open-plan kitchen.</Details>
+				<Address>102, Birch Lane</Address>
+				<DateOfAcquisition>27/11/2003</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>HA-63000.001.004.004</PropertyIdentifier>
+				<Area>110</Area>
+				<Details>Single-family house with two floors, built in 1995, includes a fireplace, garage, and a small backyard.</Details>
+				<Address>89, Cedar Avenue</Address>
+				<DateOfAcquisition>15/06/1995</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="NorthEast">
+		<Name>Shumen</Name>
+		<PostalCode>SH-97000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>SH-97000.001.001.001</PropertyIdentifier>
+				<Area>100</Area>
+				<Details>Renovated apartment in a multi-story building, built in 2005, featuring three bedrooms, a modern kitchen, and central heating.</Details>
+				<Address>25, Oak Street</Address>
+				<DateOfAcquisition>14/04/2005</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SH-97000.001.002.002</PropertyIdentifier>
+				<Area>140</Area>
+				<Details>Two-story house with a garden, constructed in 1990, includes four bedrooms, a garage, and a terrace.</Details>
+				<Address>60, Maple Drive</Address>
+				<DateOfAcquisition>29/09/1990</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>SH-97000.001.003.003</PropertyIdentifier>
+				<Area>85</Area>
+				<Details>Ground-floor apartment, built in 2012, with two bedrooms, energy-efficient windows, and a small patio.</Details>
+				<Address>102, Willow Lane</Address>
+				<DateOfAcquisition>07/06/2012</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+	<District Region="SouthEast">
+		<Name>Yambol</Name>
+		<PostalCode>YA-86000</PostalCode>
+		<Properties>
+			<Property>
+				<PropertyIdentifier>YA-86000.001.001.001</PropertyIdentifier>
+				<Area>120</Area>
+				<Details>Single-story house, built in 1998, featuring three bedrooms, a large living room, and a kitchen. The property includes a landscaped garden and a detached garage.</Details>
+				<Address>47, Cherry Street</Address>
+				<DateOfAcquisition>20/07/1998</DateOfAcquisition>
+			</Property>
+			<Property>
+				<PropertyIdentifier>YA-86000.001.002.002</PropertyIdentifier>
+				<Area>90</Area>
+				<Details>Apartment in a residential building, constructed in 2010, consisting of two bedrooms, a balcony, and a modern fitted kitchen. The building is equipped with an elevator and secured entry.</Details>
+				<Address>89, Riverside Avenue</Address>
+				<DateOfAcquisition>15/11/2010</DateOfAcquisition>
+			</Property>
+		</Properties>
+	</District>
+</Districts>
